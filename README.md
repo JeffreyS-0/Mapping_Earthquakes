@@ -7,10 +7,10 @@ The purpose of this analysis was to create an interactive world map to visually 
 As you can see below, we have created 3 different interactive maps to show a dark world view, street view and the satellite view. The tectonic plates are lined in burnt orange and each earthquake is displayed by size and color dependent on their magnitude.
 
 ### Satellite View
-![Satellite_img](https://user-images.githubusercontent.com/69607218/142789657-521285d8-b2b6-49d5-8494-a2180bde501c.png)
+![Satellite_img](https://user-images.githubusercontent.com/69607218/142790235-e9b41ee9-05bd-446a-b883-2b2a24d7bf14.png)
 
 ### Street View
-![Streets_img](https://user-images.githubusercontent.com/69607218/142789699-65f95d1b-1028-4bdc-ae7b-720f89004487.png)
+![Streets_img](https://user-images.githubusercontent.com/69607218/142790250-c811fd53-917a-4ec3-be40-79125fa9f0c5.png)
 
 ### Dark View
-![Dark_img](https://user-images.githubusercontent.com/69607218/142789713-91d6e096-2247-4077-98c1-3db1a18770b8.png)
+![Dark_img](https://user-images.githubusercontent.com/69607218/142790254-4066f19b-043f-4caf-aa09-c09600ec9f8c.png)
